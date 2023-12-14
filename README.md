@@ -1,6 +1,6 @@
-# Expense Tracker (React)
+# Expense Tracker In ReactJs
 
-This is a React version of the [vanilla JS Expense Tracker](https://github.com/zelalem-ux/Expense-Tracker/). It uses functional components with hooks and the context API
+Expense Tracker in Reactjs (https://github.com/zelalem-ux/Expense-Tracker/). It uses functional components with hooks and the context API
 
 ## Usage
 ```
